@@ -1,55 +1,50 @@
 [
-    {
+  {
       "name": "Mercury",
-      "diameter": 4879,
-      "distance_from_sun": 57.9,
-      "has_rings": false
-    },
-    {
+      "diameter_km": 4879,
+      "moons": 0,
+      "distance_from_sun_km": 57910000
+  },
+  {
       "name": "Venus",
-      "diameter": 12104
-      "distance_from_sun": 108.2,
-      "has_rings": false,
-    },
-    {
+      "diameter_km": 12104,
+      "moons": 0,
+      "distance_from_sun_km": 108200000
+  },
+  {
       "name": "Earth",
-      "diameter": 12742,
-      "distance_from_sun": "149.6 million km"
-      "moons": 1
-      "has_rings": false
-    {
-      "name": "Mars"
-      "diameter": 6779,
-      "distance_from_sun": 227.9,
+      "diameter_km": 12756,
+      "moons": 1,
+      "distance_from_sun_km": 149600000
+  },
+  {
+      "name": "Mars",
+      "diameter_km": 6792,
       "moons": 2,
-      "has_rings": "No"
-    },
-    {
+      "distance_from_sun_km": 227900000
+  },
+  {
       "name": "Jupiter",
-      "diameter": 139820,
-      "distance_from_sun": 778.5,
-      "moons" "79",
-      "has_rings": true
-    },
-    {
+      "diameter_km": 139820,
+      "moons": 79,
+      "distance_from_sun_km": 778500000
+  },
+  {
       "name": "Saturn",
-      "diameter": 116460,
-      distance_from_sun": 1434,
-      "moons": 82,
-      "has_rings": "True"
-    },
-    {
+      "diameter_km": 116460,
+      "moons": 83,
+      "distance_from_sun_km": 1429400000
+  },
+  {
       "name": "Uranus",
-      "diameter": 50724,
-      "distance_from_sun": 2871,
-      "moons": 27
-      "has_rings": true,
-    },
-    {
+      "diameter_km": 50724,
+      "moons": 27,
+      "distance_from_sun_km": 2871000000
+  },
+  {
       "name": "Neptune",
-      "diameter": 49244
-      "distance_from_sun": 4497,
+      "diameter_km": 49244,
       "moons": 14,
-      "has_rings": true
-  ]
-  
+      "distance_from_sun_km": 4495000000
+  }
+]

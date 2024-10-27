@@ -1,0 +1,11 @@
+{
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad", "webcam"],
+    "price": 799.99,
+    "owner": "John Doe",
+    "warranty":  "1 year"
+
+}

@@ -1,0 +1,12 @@
+{
+    "ticketID": "KRAK123456",
+    "passengerName": "Pavel Cernii",
+    "departureStation": "Kraków Główny",
+    "arrivalStation": "Warszawa Centralna",
+    "departureTime": "2024-10-30T09:00:00Z",
+    "price": 79.50,
+    "isRoundTrip": true,
+    "seatNumber": "15B",
+    "trainNumber": "EIC 1640",
+    "class": "First Class"
+}

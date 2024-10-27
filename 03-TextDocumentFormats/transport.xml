@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transport>
+    <meansOfTransport type="bus" manufacturer="Mercedes" capacity="50">
+        <model>Sprinter</model>
+        <fuelType>Diesel</fuelType>
+        <color>Blue</color>
+        <route>City Center - Suburbs</route>
+    </meansOfTransport>
+    
+    <meansOfTransport type="scooter" manufacturer="Xiaomi" capacity="1">
+        <model>Mi Electric Scooter</model>
+        <batteryCapacity unit="mAh">2800</batteryCapacity>
+        <color>Black</color>
+        <maxSpeed unit="km/h">25</maxSpeed>
+    </meansOfTransport>
+
+    <meansOfTransport type="tram" manufacturer="Bombardier" capacity="200">
+        <model>Flexity</model>
+        <powerSource>Electric</powerSource>
+        <color>Red</color>
+        <route>Downtown - Airport</route>
+    </meansOfTransport>
+</transport>
