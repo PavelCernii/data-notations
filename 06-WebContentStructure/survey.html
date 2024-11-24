@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Survey</title>
+</head>
+<body>
+    <h1>AI Knowledge Survey</h1>
+    <form>
+        <label for="age">Age:</label><br>
+        <input type="number" id="age" name="age"><br><br>
+        
+        <label>Gender:</label><br>
+        <input type="radio" id="male" name="gender" value="male">
+        <label for="male">Male</label><br>
+        <input type="radio" id="female" name="gender" value="female">
+        <label for="female">Female</label><br><br>
+        
+        <label for="usage">How often do you use ChatGPT?</label><br>
+        <select id="usage" name="usage">
+            <option value="never">Never</option>
+            <option value="rarely">Rarely</option>
+            <option value="occasionally">Occasionally</option>
+            <option value="often">Often</option>
+            <option value="constantly">Constantly</option>
+        </select><br><br>
+        
+        <label for="benefits">Describe shortly your benefits from using AI:</label><br>
+        <textarea id="benefits" name="benefits" rows="4" cols="40"></textarea><br><br>
+        
+        <button type="submit">Submit</button>
+    </form>
+</body>
+</html>
